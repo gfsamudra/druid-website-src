@@ -621,6 +621,10 @@ Tencent SCRM product use Druid for customer behavior analysis.
 
 TWC uses Druid for exploratory analytics.
 
+## Travelingpin
+
+[Travelingpin](https://travelingpin.com) is Indonesia largest traveling media with Pin Locations scattered throughout Indonesia's tourist attractions.
+
 ## TrafficGuard
 
 TrafficGuard detects, mitigates and reports on ad fraud before it hits digital advertising budgets. Three formidable layers of protection block both general invalid traffic (GIVT) and sophisticated invalid traffic (SIVT) to ensure that digital advertising results in legitimate advertising engagement. With visibility of traffic across thousands of campaigns, TrafficGuard’s machine learning can identify emerging patterns, trends and indicators of fraud quickly and reliably.
